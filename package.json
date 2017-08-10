@@ -1,0 +1,22 @@
+{
+  "name": "handlebars-helper-checkif",
+  "version": "1.0.0",
+  "description": "A Handlebars helper for selecting an option in a radio button group, based on an equality check",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HouseBreaker/handlebars-helper-checkif"
+  },
+  "keywords": [
+    "handlebars",
+    "helper",
+	"radio",
+	"button"
+  ],
+  "author": "Housey <housebreaker1@gmail.com> (housebreaker1@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HouseBreaker/handlebars-helper-checkif/issues"
+  },
+  "homepage": "https://github.com/HouseBreaker/handlebars-helper-checkif"
+}
